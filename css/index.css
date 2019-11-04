@@ -200,6 +200,10 @@ ul {
         vertical-align: center;
         width:20%;
     }
+
+    .services-info-img {
+        display: none;
+    }
 }
 
   @media (max-width: 500px) {
